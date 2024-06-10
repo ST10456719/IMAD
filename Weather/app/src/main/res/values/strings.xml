@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather_notifier">Weather Notifer</string>
+</resources>
